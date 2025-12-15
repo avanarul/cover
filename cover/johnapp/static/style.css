@@ -1,0 +1,63 @@
+body{
+    background-image: url("2YApK1y9zA9YquHMxj8yfvFH7ul-mobile.jpg");
+    background-size: contain;
+    margin-left: 515px;
+    margin-right: 515px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.top{
+    color: white;
+}
+
+p{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.no1{
+    padding:12px;
+    height: 60px;
+    font-size: 22px;
+    border-left:white 4px solid;
+    background-color:pink;
+    font-style:italic;
+    border-radius: 15px;
+}
+
+p>p2{
+    background-color:red;
+}
+
+.no2 {
+    margin-top:38px;
+    background-image: url("WhatsApp Image 2025-12-15 at 22.55.42_4c40cb2c.jpg");
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: 10px 18px;
+    background-size: 85px 85px;
+    padding:10px;
+    height: 100px;
+    font-size: 15px;
+    background-color:yellowgreen;
+    font-style:italic;
+    padding-left: 100px;
+    border-radius: 15px;
+    font-size:small;
+}
+
+.no3 {
+    margin-top:200px;
+    padding:10px;
+    height: 60px;
+    color:white;
+    font-size: 18px;
+    background-color: blue;
+}
+
+.lastbox{
+    color:white;
+}
+
+.rate{
+margin-left:140px;}
